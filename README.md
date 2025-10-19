@@ -30,6 +30,7 @@
   <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" />
   <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="40" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" alt="Unity" height="40" />
 </p>
 
 ---
